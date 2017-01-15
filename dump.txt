@@ -11,7 +11,7 @@
     </span>
    </h1>
    <p class="article-meta">
-    <a href="/dup-us-en/authors/k/ajit-kambil.html">
+    <a href="/content/dupress/dup-us-en/authors/k/ajit-kambil/.html">
      Ajit Kambil
     </a>
    </p>
@@ -158,7 +158,7 @@
     </h5>
     <p>
      Written by:
-     <a class="" href="/dup-us-en/authors/k/ajit-kambil.html">
+     <a class="" href="/content/dupress/dup-us-en/authors/k/ajit-kambil/.html">
       Ajit Kambil
      </a>
     </p>
@@ -180,19 +180,19 @@
     <p>
     </p>
     <div>
-     <a class="hiddenhighlight" href="/dup-us-en/tags/executive-transitions.html">
+     <a class="hiddenhighlight" href="/content/dupress/dup-us-en/tags/executive-transitions.html">
       Executive Transitions
      </a>
      ,
-     <a class="hiddenhighlight" href="/dup-us-en/tags/workplace-culture.html">
+     <a class="hiddenhighlight" href="/content/dupress/dup-us-en/tags/workplace-culture.html">
       Workplace culture
      </a>
      ,
-     <a class="hiddenhighlight" href="/dup-us-en/tags/leadership.html">
+     <a class="hiddenhighlight" href="/content/dupress/dup-us-en/tags/leadership.html">
       Leadership
      </a>
      ,
-     <a class="hiddenhighlight" href="/dup-us-en/tags/talent.html">
+     <a class="hiddenhighlight" href="/content/dupress/dup-us-en/tags/talent.html">
       Talent
      </a>
     </div>

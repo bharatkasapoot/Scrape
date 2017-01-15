@@ -1,0 +1,100 @@
+
+	             
+	                 
+	                   Article
+	                   Turnaround strategies for dysfunctional teams Executive transitions
+
+                       
+
+	                   	 
+                        
+                        Ajit Kambil
+                         
+						
+	                   
+		                   February 10, 2016
+		               
+	                 
+	                 
+                		
+            		 
+	                 
+	                 	Incoming executives may inherit less-than-effective leadership teams when they take over. Three common dysfunctions include collective delegation upward in an attempt to avoid accountability, low collective energy, and organization silos. Some turnaround strategies for new executives to deal with dysfunctional teams and boost their performance.
+	                 
+	                                  
+	                 
+					 	
+The leadership and extended team is vital to your success as an incoming executive both during and after your transition to your new C-suite role. In previous articles we covered various drivers of team performance—from diagnosing the functioning of the team to re-recruiting the team you inherit to effectively delivering your target brand through your team. In this article, I address strategies for overcoming three common dysfunctions that I frequently encounter in our Transition Labs:
+
+Collective delegation up: Avoiding accountability
+Collective lethargy: Low energy, engagement, and commitment
+Organization silos and conflicts that delay or undermine collective success
+
+While there are many other inhibitors of team performance (See Lencioni’s Five Dysfunctions of the Team: A Leadership Fable for a useful hierarchy of issues),1 I most often find incoming leaders initially grappling with how they intervene to address these specific “team inheritances.”
+From delegating up to shared accountability 
+I often encounter executives in my Transition Labs who lament that they have inherited a team that is unwilling to make and own its decisions. Instead it “delegates up” decisions. This behavior, of course, defeats the purpose of having a leadership team as a resource you can delegate to, so you can focus your energies and time on more strategic issues.Such collective delegating up is usually driven by a shared belief system. As an incoming executive who observes this behavior, it is important to diagnose the prevailing beliefs that drive this collective behavior and understand the conditions that led to the acceptance of these beliefs. Often, I find such behaviors in organizations where one of the previous two leaders or the CEO is controlling and has created an intimidating culture. If prior leaders excessively punished or publicly ostracized those who made small mistakes or independent choices, or if they managed through a culture of fear, team members will feel it is unsafe to make independent decisions and take ownership of them.Changing such a culture takes time. As an incoming leader you have to constantly communicate the need for team members to make their own decisions and push the decisions they delegate up back down to them to own. You will need to celebrate those who display the decision-making behaviors you desire and act as role models. Most importantly, you will have to create an environment where team members can vigorously debate issues and make choices by themselves without fear of retribution. Culture change is not easy. A more systematic approach to engaging culture change is articulated in our CFO insights article.2
+From collective lethargy toward energized commitment 
+Low energy, engagement, and commitment across your inherited extended leadership team can occur for a variety of reasons. Perhaps prior incumbents in your role were ineffective at running the team. They may not have attended to forging a team by establishing a common brand, goals, role clarity, and group processes nor committed to improving relations within the team. They may have been ineffective as leaders in raising resources to support the team, from staff and budget to do the job to salary increases commensurate with the market. Thus, existing staff may have been working extra hard with no extra rewards as their discretionary energy was depleted.They may also have lost credibility with their staff by promoting mediocrity and “yes” people to higher positions, or may have been disorganized in team settings—basically running team meetings as status reports without the involvement of the extended leadership team in collectively important decisions. Similarly, the prior leader may have driven organization changes such as implementing a poorly designed shared service finance organization that undermined existing partnering relations among staff and interactions with the businesses. All of these different types of issues can contribute to talent affected by the changes withholding discretionary energy and motivation to perform at the highest levels.If you encounter collective lethargy in the team you inherit, it is important to first diagnose the causes of low energy, engagement, and commitment. There is no single silver bullet to boost energy, and you may have limited choices in changing the context that drives collective lethargy. If it is the “mediocre yes” folk put in leadership positions by prior leaders you may have to replace them. If it is poorly run team meetings in the past, you have to improve them and allow other leaders to contribute to the agenda and decisions in the meetings. If it is the lack of resources, ideally you would have negotiated for some discretionary resources before you took up the position so that critical staff can be recruited or compensation packages constructed to retain them. If the team is overworked and tired, you will have to look at ongoing projects and kill energy-draining projects and tasks that are less important to free up resources to succeed at the more important efforts.The journey from collective lethargy to energized commitment is not likely to be easy or instant. You will need to identify root causes and undertake selective change efforts, where feasible, from replacing people to changing the work done by the team. As with the previous challenge of delegation up, you will need to change the collective beliefs of the team—and visibly demonstrate, communicate, and reinforce to the team that their discretionary energy and efforts will be recognized and rewarded, and that their energy and effort will not be wantonly wasted. Approaches to culture and belief change are discussed in more detail in my CFO insights article.3
+From organization silos to synchronized high performance
+Today, managers increasingly confront a volatile, uncertain, complex, and ambiguous (VUCA) business environment. In a VUCA world, traditional hierarchical models of organization are unlikely to be adaptive and responsive to changing conditions. No single leader or node in the hierarchy is likely by itself to be able to process and filter the vast stream of incoming information into a coherent whole to generate thoughtful, immediate, and concerted responses and actions to effectively adapt to or reshape the environment. A good leadership team can help process and filter diverse dynamic inputs into coherent collective perspectives and hypotheses and execute adaptive decisions in near real-time.Many CFOs who come to my Transition Labs note that they have inherited hierarchical and siloed organizations. Often, each member of the leadership team owns and assiduously guards his or her own team hierarchy and team information, with little coordination across teams. Information filters slowly through each team and up the hierarchy; then it is processed and often recycled across levels until decisions are made which then have to flow down the hierarchy. In today’s networked fast-changing world, this traditional model of organization can lead to delays in decision-making, lost opportunities, or even erroneous non-adaptive responses to shifting business environments. In short, many executives find their inherited team and organization operating models unprepared, inefficient, and unable to respond in a timely manner in a VUCA world.General Stanley McChrystal probably provides the single best exposition on how to resolve this conundrum of organization and team silos by constructing what he calls a “team of teams” as he notes in his book of the same title.4 In a team of teams, not only are the leaders of different teams or hierarchies connected, but various members of each of their respective teams are also linked through trusting relationships and common purpose with members of other teams to share information, interpret, and establish a collective understanding of the situation confronting the organization, and then undertake collective action to address organization needs.As he notes in his book, when he became leader of the joint special operations command in Iraq, he had some of the best teams in the military reporting to him: Navy Seals, Rangers, Army Special Operations Forces, and so on. Yet, despite these teams and significant surveillance, technology, and equipment advantages, Al Qaeda in Iraq (AQI) was outmaneuvering the US military by increasing its deadly operations through decentralized networks. While each team in McChrystal’s command was excellent by itself, the siloed working style of teams in the field and intelligence analysts on base or elsewhere led to only a fraction of the intelligence gathered being converted into timely insights to target adversaries; besides, ownership of resources across different team hierarchies did not mean the best available resources were effectively deployed to the collective mission of destroying AQI.McChrystal and his leadership dramatically improved strategic and operational capability to substantially scale the missions effectively executed per month by re-organizing to create a team of teams. This was done by leveraging four key organizational principles: increasing liaisons and embedding personnel across teams to foster trust across individuals from different teams, establishing a clear common purpose, creating a shared consciousness through transparent sharing of information, and empowering execution across all levels of the organization.To enhance mutual trust and connectivity across teams at lower levels of the hierarchy, McChrystal established liaison roles across teams, often having a well-qualified high performer in one team assigned to or embedded in another team. Over time, this built mutual respect and connection points across teams.Second, while individual teams had great commitment and pride in the team, McChrystal and his leadership effectively communicated the common purpose of collectively winning against AQI. While individual or team success was important, the overall success over AQI became the paramount criterion of success.Third, and perhaps most importantly, McChrystal and his leadership transformed information-sharing across the entire command. At the outset of his tenure in 2003, the daily operations and intelligence brief—a regular meeting held by a command to integrate everything a command is doing with what it knows—had a small video conference between the headquarters in Fort Bragg, a few offices in DC, and the biggest bases in Iraq and Afghanistan. McChrystal and his leadership expanded this meeting over secure communications facilities to be accessible by laptop to numerous members across levels in the command and to include numerous agencies and embassies. By 2005, the daily meeting included nearly 7,000 participants. In these meetings, a four-minute slot would be divided into a one-minute update and three-minute discussion among participants of observations and issues. This meeting created a shared consciousness of the battlefield and the battle on a daily basis across participants, allowing for more focused and adaptive follow-up actions.The fourth element of the transformation was disciplined, empowered execution. Leveraging shared consciousness and visibility—those closer to the problems and opportunities were permitted to self-organize responses to opportunities without having to get approvals up and down hierarches. The individuals and teams were encouraged to do the “right things” with “eyes on what they did but hands off” how to do it. These four organizing devices dramatically increased team performance on the battlefield.Like overcoming delegation up and team lethargy, moving from organizational silos toward synchronized performance is not an easy task and takes time and leadership. It requires change at multiple levels in what team members believe and how they are organized.The takeaway: Incoming executives inherit leadership and extended teams with varying levels of performance. From delegation up, to collective lethargy or organizational silos, a number of different factors can undermine team performance. Addressing these issues is not easy and will require you to determine the root causes of the team’s current performance and then select from varied responses that can range from changes in the people and culture to organizational connectivity, information-sharing, and individual empowerment to boost team performance.
+ 
+					 
+					 
+					 	
+					 
+                 	
+                		
+
+	Credits
+		
+
+			Written by:
+            
+            Ajit Kambil
+			 
+		
+		
+			Cover image by: Livia Cives
+		
+
+
+
+
+	
+		Topics in this article
+		
+        
+        	Executive Transitions, 
+
+
+         
+        	Workplace culture, 
+
+
+         
+        	Leadership, 
+
+
+         
+        	Talent
+
+
+         
+         
+        
+	
+
+
+
+	Endnotes
+Patruc Lencioni, The Five Dysfunctions of a Team: A Leadership Fable (Jossey Bass, 2002). View in article
+Ajit Kambil, CFO insights—Navigating change: How CFOs can effectively drive transformation, Deloitte, http://www2.deloitte.com/content/dam/Deloitte/us/Documents/finance/us-cfo-insights-navigating-change.pdf, accessed on February 9, 2016. View in article
+Ibid. View in article
+General Stanley McChrystal, Tantum Collins, David Silverman, and Chris Fussell, Team of Teams: New Rules of Engagement in a Complex World, (Portfolio/Penguin, 2015). View in article
+ 
+	Show moreShow less
+
+
+            		
+                 
+	         
